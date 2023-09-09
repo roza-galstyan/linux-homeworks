@@ -4,7 +4,7 @@ Description: Ubuntu 22.04.3 LTS
 Release: 22.04
 Codename: jammy
 1 PRETTY_NAME="Ubuntu 22.04.2 LTS"     
-2 NAME="RozaGalstyan"
+2 NAME="Ubuntu"
 3 VERSION_ID="22.04"    
 4 VERSION="22.04.2 LTS (Jammy Jellyfish)"
 5 VERSION_CODENAME=jammy     
