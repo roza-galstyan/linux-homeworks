@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include "class.h"
 
 void Sorting_complex_numbers (std::vector<Complex_number> &arr){
     Complex_number temp;
