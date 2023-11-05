@@ -84,7 +84,7 @@ if (offset < 0){
 	   break;}
 
     M += data_bytes ;
-	N = hole_bytes ;
+    N+= hole_bytes ;
 	offset = lseek (new_fd,BUFFER_SIZE,SEEK_CUR);
 	if (offset < 0){
 	std::cerr << strerror(errno);
